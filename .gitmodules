@@ -1,3 +1,12 @@
 [submodule "zsh-autoswitch-virtualenv"]
 	path = zsh-autoswitch-virtualenv
 	url = git@github.com:fabalcu97/zsh-autoswitch-virtualenv.git
+[submodule "frontend-tools"]
+	path = frontend-tools
+	url = git@github.com:fabalcu97/frontend-tools.git
+[submodule "todo/frontend"]
+	path = todo/frontend
+	url = git@github.com:fabalcu97/todo-frontend.git
+[submodule "todo/server"]
+	path = todo/server
+	url = git@github.com:fabalcu97/todo-server.git
